@@ -1,0 +1,7 @@
+[2026-11-08T14:48:42Z] === AST ITERATION 1 START | repo=canonical/sdcore-ausf-operator sha=36c38567 ===
+[2026-11-08T14:48:42Z] [iter=1] PHASE START: ast repo=canonical/sdcore-ausf-operator sha=36c38567
+[2026-11-08T14:48:42Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T14:49:17Z] [iter=1] AST chunks built count=1 triples=312545
+[2026-11-08T14:49:17Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/36c38567845e37a335b8f4c052343ebc7d350ecb/.complete
+[2026-11-08T14:49:17Z] [iter=1] PHASE END: ast elapsed_s=35 elapsed_min=0.6
+[2026-11-08T14:49:17Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
