@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-ausf-operator",
+  "versions": [
+    {
+      "commit": "36c38567845e37a335b8f4c052343ebc7d350ecb",
+      "tag": "",
+      "parsed_at": "2026-11-08T14:50:01.366052+00:00"
+    }
+  ]
+}
